@@ -1,4 +1,4 @@
-# Java ClassLoader
+# Java ClassLoader 和双亲委派机制
 
 - BootstrapClassLoader：C/C++ 实现的类加载器，加载 JVM 运行时核心类；
 - ExtensionClassLoader：Java 实现的类加载器，加载 JVM 扩展类；
