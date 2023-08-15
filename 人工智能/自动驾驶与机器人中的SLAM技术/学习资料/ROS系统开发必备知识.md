@@ -1,13 +1,13 @@
-### 如果你想创造一个智能体，这可能是最快了解它的媒介----ROS
+### 如果你想创造一个智能体，这可能是最快了解并实现它的媒介----ROS
 
 
 #### 欢迎加入我们！！！
-![Alt](image.png)
+![Alt](./../Fig/image-3.png)
 图片来自DARPA Subterranean (SubT) Challenge
 
 
 ### 什么是ROS？
-![Alt text](image-1.png)
+![Alt text](./../Fig/image-4.png)
 
 机器人操作系统（ROS- Robot Operating System）是用于编写机器人软件的灵活框架。目的在提高模块化能力和复用能力，从而简化任务量，方便多种机器人平台之间创建复杂和鲁棒的机器人行为，它是工具、库和约定的集合。
 
@@ -43,3 +43,6 @@ https://www.bilibili.com/video/BV1mJ411R7Ni/?spm_id_from=333.337.search-card.all
 ## 附件
 
 [机器人工程师学习计划](./机器人工程师学习计划%20-%20知乎专栏.pdf)
+
+参考链接
+https://zhuanlan.zhihu.com/p/68166519
