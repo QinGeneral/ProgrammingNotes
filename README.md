@@ -23,7 +23,7 @@
 - 小程序
 - 编程语言
   - [Java](./编程语言/Java/目录.md)
-  - Kotlin
+  - [Kotlin](./编程语言/Kotlin/目录.md)
   - Python
   - C++
 - [代码规范](./代码规范/目录.md)
