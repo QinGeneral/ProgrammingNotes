@@ -22,7 +22,7 @@
 
 ## JWT（Json Web Token） 认证流程
 
-![Alt text](image.png)
+![Alt text](./images/image.png)
 
 JWT 的认证流程如下：
 
