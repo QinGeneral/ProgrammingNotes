@@ -4,7 +4,7 @@
 - ExtensionClassLoader：Java 实现的类加载器，加载 JVM 扩展类；
 - AppClassLoader：加载 classpath 中的类。
 
-![](images/Java%20ClassLoader.png)
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692787583.0178409SmartPic.png)
 
 SecureClassLoader 继承了抽象类ClassLoader，但SecureClassLoader 并不是ClassLoader 的实现类，而是拓展了ClassLoader 类加入了权限方面的功能，加强了ClassLoader的安全性。
 

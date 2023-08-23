@@ -6,5 +6,4 @@ View 的绘制会触发到 ViewRoot 的 performTraversals 方法，然后调用 
 
 measure 阶段确定了 View 的大小，layout 阶段确定了 View 的位置，draw 阶段将 View 绘制到屏幕上。
 
-![](./images/View绘制机制.png)
-
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692801455.944886SmartPic.png)

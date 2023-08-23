@@ -9,4 +9,4 @@
 7. SystemServer 进程，启动 Binder 线程池和 SystemServiceManager，启动各种系统服务；
 8. ActivityManagerService 启动 Launcher，Launcher 启动后将已安装应用显示到界面上。
 
-![](./images/Android启动流程.png)
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692801387.3806899SmartPic.png)

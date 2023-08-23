@@ -2,17 +2,17 @@
 
 HTTPS 是 HTTP 的安全版本，它在 HTTP 的基础上添加了一层 SSL/TLS 协议，用于对数据进行加密。它为 HTTP 增加了机密性、完整性、身份认证和不可否认的特性。
 
-![](../images/HTTPS.webp)
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692787929.2982779SmartPic.png)
 
 SSL/TLS 层结合了两种[加密算法](../../安全/加密算法.md)，同时具备非对称加密的安全性和对称加密的性能。另外利用[数字签名与证书](../../安全/数字签名与证书.md)机制，保证完整性和身份认证。
 
 ## HTTPS 握手流程
 
 TLS 握手简要流程如下：
-![](../images/HTTPS握手.webp)
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692787954.046357SmartPic.png)
 
 TLS 握手详细流程如下：
-![](../images/HTTPS握手详细流程.webp)
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692787970.0251882SmartPic.png)
 
 1. TCP 三次握手，建立连接；
 2. 客户端发送 ClientHello 消息，包含客户端支持的 SSL/TLS 版本、加密算法和随机数，用于生成会话秘钥；

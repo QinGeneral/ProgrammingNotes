@@ -42,7 +42,8 @@
 
 ### 方案 2 Hook Instrumentation
 
-![](images/Activity%20Hook.png)
+
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692801513.309739SmartPic.png)
 
 1. 实现 Instrument 代理类：
    1. 在 execStartActivity 方法中，如果原 Intent 中的 Activity 没有注册，则替换为 StubActivity，然后反射调用原 Instrumentation.execStartActivity 方法，以此跳过 AMS 校验；

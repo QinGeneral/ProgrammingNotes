@@ -6,7 +6,7 @@
 - DexClassLoader：继承自 BaseDexClassLoader，可以加载 dex 文件和 dex 压缩包；
 - PathClassLoader：继承自 BaseDexClassLoader，加载系统类和应用程序类；
 
-![](images/Android%20ClassLoader.png)
+![](https://blog-pic-1251295613.cos.ap-guangzhou.myqcloud.com/1692801414.424076SmartPic.png)
 
 SecureClassLoader、URLClassLoader 和 Java ClassLoader 中的类加载器一致，为 ClassLoader 拓展了权限检查方面的安全性和 URL 路径加载类的功能。
 
