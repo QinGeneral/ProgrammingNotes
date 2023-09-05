@@ -34,7 +34,7 @@
 https://www.ros.org/
 https://robot.czxy.com/docs/ros/
 https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/
-
+[ROS机器人程序设计](./ROS机器人程序设计（原书第2版）.pdf)
 
 **bilibili**
 https://www.bilibili.com/video/BV1mJ411R7Ni/?spm_id_from=333.337.search-card.all.click
